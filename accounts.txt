@@ -1,0 +1,7 @@
+AccountNumber             AccountName
+1001                      priya
+1002                      venkat
+1003                      shivam
+1004                      sachin
+1005                      satyavan
+1006                      mahesh
