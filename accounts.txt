@@ -1,10 +1,9 @@
 AccountNumber             AccountName
 1001                      priya
 1002                      venkat
-1003                      shivam
 1004                      sachin
-1005                      satyavan
 1006                      mahesh
 1007                      ramesh
 1008                      daram
 1009                      madhav
+1010                      satyavan
